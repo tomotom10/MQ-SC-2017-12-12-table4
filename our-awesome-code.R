@@ -1,5 +1,9 @@
 awesome_function_1 <- function(argument1) {
+
     print("Zainab")
+=======
+    print("Iryna Levchenko")
+
 }
 
 awesome_function_2 <- function(argument1) {
