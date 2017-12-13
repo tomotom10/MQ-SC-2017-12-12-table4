@@ -1,5 +1,8 @@
-awesome_function_1 <- function(argument1) {
-    _______
+awesome_function_1 <- function(number) {
+  if(argument1%%2 ==0)
+    print("Even number!")
+  else
+    print("Odd number!!")
 }
 
 awesome_function_2 <- function(argument1) {
