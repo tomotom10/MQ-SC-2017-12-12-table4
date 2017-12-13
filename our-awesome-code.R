@@ -24,3 +24,7 @@ awesome_function_4 <- function(argument1) {
 awesome_function_5 <- function(argument1) {
     _______
 }
+awesome_function_66 <- function(argument1) {
+  print("Iryna- one more attempt!")
+}
+
